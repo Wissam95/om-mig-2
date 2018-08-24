@@ -4,10 +4,27 @@ body {
     text-align: center;
     
 }
+
+body header { 
+    color: white;
+}
+
 .f-title {
-    color: aliceblue;
+    text-align: center; 
+    font-size: 30px; 
+    color: red;
 
 }
+.psc{margin: auto;
+    display:block;
+     width:250px;
+      border-radius: 50%;
+
+}
+h3 {
+    color:  red
+}
+
 main ul {
     list-style-type: none;
 }
@@ -20,18 +37,11 @@ main ul {
 img {
 margin: auto;display: block; width: 250px; border-radius: 50%;
 }
-.sec-title {
-    color: rgb(3, 175, 138)
-}
-.th-t {
-    color: rgb(3, 175, 138)
-}
-.fth-t {color: rgb(3, 175, 138)
-}
 
-.line { 
-    color:white;
-    margin: 10px 20px 10px 20px;
+p { 
+    color: rgb(5, 255, 255);
+    margin: 10px 20px 10px 20px; 
+    
 }
 footer{
     color: white;
