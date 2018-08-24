@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://cdn.wallpapersafari.com/89/47/eykE06.gif");
+    background-size: cover;
+    text-align: center;
+    
+}
+.f-title {
+    color: aliceblue;
+
+}
+main ul {
+    list-style-type: none;
+}
+
+.first-title {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+img {
+margin: auto;display: block; width: 250px; border-radius: 50%;
+}
+.sec-title {
+    color: rgb(3, 175, 138)
+}
+.th-t {
+    color: rgb(3, 175, 138)
+}
+.fth-t {color: rgb(3, 175, 138)
+}
+
+.line { 
+    color:white;
+    margin: 10px 20px 10px 20px;
+}
+footer{
+    color: white;
+}
+footer ul {
+    list-style-type: none;
+}
